@@ -1,0 +1,5 @@
+## Scripts/Domain
+ドメインロジックの格納場所。
+DomainロジックはApplicationとDataとUtilityの３箇所からしかコンパイルしない。
+
+Domainロジック上にPresenterが入らないように注意する。

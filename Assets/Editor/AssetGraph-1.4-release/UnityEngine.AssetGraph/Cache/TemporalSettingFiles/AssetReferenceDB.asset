@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee4bc21567f434b598a3c96ba4946372, type: 3}
+  m_Name: AssetReferenceDB
+  m_EditorClassIdentifier: 
+  m_assets:
+  - m_assetDatabaseId: 33877157470234b6bb00e1b00a8c7709
+    m_importFrom: Assets/Autoya/Manifest/ShouldGitIgnore/Resources/BuildManifest.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d4384419b2b8d455bb90f9928009fd79
+    m_importFrom: Assets/Autoya/Backyard/AutoyaMainthreadDispatcher.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000004000000000000000
+    m_importFrom: ProjectSettings/ProjectSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1ebbadce6891a432c825e2f9f89902e6
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/TemporalSettingFiles/AssetReferenceDB.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0000000000000000b000000000000000
+    m_importFrom: ProjectSettings/EditorBuildSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7ff816907001241469aea4892b447a03
+    m_importFrom: Assets/Autoya/Notification/Plugins/iOS/OnUrlScheme.mm
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a6ef6ac015119486aaa93edb7e0fad26
+    m_importFrom: Assets/AutoyaSample/9_Notification/URLSchemeSample.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d64a5028c6646494d935254e9ba0d881
+    m_importFrom: Assets/Autoya/Notification/Notifications.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d5cdb6d930da14ef09e9a5ef6d168c49
+    m_importFrom: Assets/Autoya/Backyard/IUpdater.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d52ed84cd30ad4129b0af3e2e2f8e3b4
+    m_importFrom: Assets/Autoya/Caching
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4a0587ff48d994fd8b4f99d15f7a505d
+    m_importFrom: Assets/Autoya/Backyard/PersistImplementation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a33ebcb65ebf847f4bf68ddd49a6b5a5
+    m_importFrom: Assets/Editor/AutoyaEditorTool.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ad1628dfe914e4bc2a016f4c89e8d0e5
+    m_importFrom: Assets/Autoya/Persistence/Editor/PersistenceSupport.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fac644f8d48b2425db6640dba11e339f
+    m_importFrom: Assets/Autoya/Settings/AutoyaBuildManifestObject.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 852b2ae9db920489d94c2e9a085d84cb
+    m_importFrom: Assets/Autoya/Backyard/AppManifestImplementation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2ee2c1edfacf54b2881227afb2908a6c
+    m_importFrom: Assets/Autoya/Manifest/AppManifestStore.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 428891012db5a46838a818ae340a11a3
+    m_importFrom: Assets/Autoya/Persistence/InAppKVS/InAppKVS.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fbd316015e78e48669c328021e8cb3de
+    m_importFrom: Assets/Autoya/Persistence/InAppDB/InAppDB.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d1ceb0c175662314e96b54819b7bc407
+    m_importFrom: Assets/Autoya/Persistence/InAppKVS
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92a648f97462643358ee22f2a5a10263
+    m_importFrom: Assets/Autoya/Persistence/FilePersistence
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bc8052ecf70cd41838b777a314e3d020
+    m_importFrom: Assets/Autoya/Persistence/FilePersistence/FilePersistence.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c9f5aa3d1d3ca477eb93d04c4e59e563
+    m_importFrom: Assets/Autoya/Persistence/InAppDB
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1b5e16400f7804be58bd0f1ebea83a9f
+    m_importFrom: Assets/AutoyaTests/Tests/Connection/UdpTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4d338a31cc0c43d9b42979b09c5f058
+    m_importFrom: Assets/Autoya/Backyard/AuthenticationImplementation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9c2b3fdfe135548bea43e0bf058fb1e4
+    m_importFrom: Assets/AutoyaTests/Tests/Connection/IPTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 72216422a9708419faa3e0bf62d72235
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Generated/GeneratedTestEntryPoints.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 470e6520d97234d5f89039607e5e4adf
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Libs/UUebView/Runtime/Resources/Views/ConsoleTag/CONTENTTEXT.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0000000000000000a100000000000000
+    m_importFrom: ProjectSettings/UnityConnectSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5228e6afb9cea43359e4c35013127f30
+    m_importFrom: Assets/SamUnitCore/Scripts/Application/ApplicationAssemblyDefinition.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9a171f3774d824e01a6ff2603e2b7c1e
+    m_importFrom: Assets/SamUnitCore/Scripts/Data/DataAssemblyDefinition.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b4ab0bcdab83b4d8f976cd3add45c28e
+    m_importFrom: Assets/SamUnitCore/Scripts/Domain/DomainAssemblyDefinition.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 19b041547f4034c73b1658dbdd5fdc78
+    m_importFrom: Assets/SamUnitCore/Scripts/Presentation/PresentationAssemblyDefinition.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 65b4789cad44843c6b03577e3706c246
+    m_importFrom: Assets/SamUnitCore/Scripts/Utility/UtilityAssemblyDefinition.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a41fa5391f7c4260890c95f7fe71146
+    m_importFrom: Assets/SamUnitCore/Scripts/Application/Common/Test.cs
+    m_exportTo: 
+    m_variantName: 
+  m_version: 2

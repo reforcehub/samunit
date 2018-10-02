@@ -1,0 +1,12 @@
+{
+    "name": "PresentationAssemblyDefinition",
+    "references": [
+        "DomainAssemblyDefinition",
+        "DataAssemblyDefinition",
+        "UtilityAssemblyDefinition"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

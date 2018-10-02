@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="174c0dcd-7bb3-4fd0-a229-3b18f813581d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="456838843">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile" value="1" />
+          <entry key="cs" value="18" />
+          <entry key="gitignore" value="1" />
+          <entry key="md" value="7" />
+          <entry key="sh" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="18" />
+          <entry key="Markdown" value="6" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Makefile" value="9" />
+          <entry key="cs" value="3012" />
+          <entry key="md" value="923" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="3012" />
+          <entry key="Markdown" value="923" />
+          <entry key="PLAIN_TEXT" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Autoya/Backyard/AutoyaConstructor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SamUnitCore/Scripts/Utility/SingletonMonoBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SamUnitCore/Scripts/Utility/Session.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Autoya/Backyard/OverridePoints.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/SamUnit/Scripts/Utility/SingletonMonoBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/SamUnit/Scripts/Application/README.md" />
+        <option value="$PROJECT_DIR$/Assets/SamUnit/Scripts/Data/README.md" />
+        <option value="$PROJECT_DIR$/Assets/SamUnit/Scripts/Domain/README.md" />
+        <option value="$PROJECT_DIR$/Assets/SamUnit/Scripts/Presentation/README.md" />
+        <option value="$PROJECT_DIR$/Assets/SamUnit/Scripts/Utility/README.md" />
+        <option value="$PROJECT_DIR$/Assets/SamUnit/Scripts/Application/Common/SceneManagerExtention.cs" />
+        <option value="$PROJECT_DIR$/Assets/SamUnit/Scripts/Application/Common/SceneManagerExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/SamUnit/Scripts/Application/Common/CommonVariableProvider.cs" />
+        <option value="$PROJECT_DIR$/Assets/SamUnit/Scripts/Application/Common/Session.cs" />
+        <option value="$PROJECT_DIR$/Assets/SamUnit/Scripts/Utility/Session.cs" />
+        <option value="$PROJECT_DIR$/Assets/.gitignore" />
+        <option value="$PROJECT_DIR$/Assets/Makefile" />
+        <option value="$PROJECT_DIR$/Assets/Autoya/Backyard/PurchaseImplementation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Autoya/Purchase/LocalPurchaseRouter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Autoya/Settings/PurchaseSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Autoya/Backyard/AutoyaConstructor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Autoya/Backyard/OverridePoints.cs" />
+        <option value="$PROJECT_DIR$/Assets/SamUnitCore/Scripts/Application/Common/test.cs" />
+        <option value="$PROJECT_DIR$/Assets/SamUnitCore/Scripts/Application/Common/Test.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="SamUnitCore" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="SamUnitCore" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="SamUnitCore" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Application" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="SamUnitCore" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Utility" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="174c0dcd-7bb3-4fd0-a229-3b18f813581d" name="Default Changelist" comment="" />
+      <created>1538451774315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538451774315</updated>
+      <workItem from="1538451777584" duration="166000" />
+      <workItem from="1538452411180" duration="1314000" />
+      <workItem from="1538454194955" duration="467000" />
+      <workItem from="1538466141644" duration="3754000" />
+      <workItem from="1538475513575" duration="3980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9681000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26432666" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Kevoree Base64 Translator" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25358167" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Kevoree Base64 Translator" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/autoya" />
+      <path value="$PROJECT_DIR$/Assets/autoya" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/SamUnitCore/Scripts/Utility/SingletonMonoBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SamUnitCore/Scripts/Application/README.md">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="10" selection-start-column="10" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SamUnitCore/Scripts/Data/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="48">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SamUnitCore/Scripts/Domain/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="64">
+            <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SamUnitCore/Scripts/Presentation/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SamUnitCore/Scripts/Utility/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="32">
+            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SamUnit/Scripts/Application/Common/SceneManagerExtension.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SamUnit/Scripts/Application/Common/Session.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PluginsImporter.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Autoya/Purchase/PurchaseRouter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="319" column="56" selection-start-line="319" selection-start-column="56" selection-end-line="319" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Autoya/Purchase/LocalPurchaseRouter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Autoya/Backyard/PurchaseImplementation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Autoya/Settings/PurchaseSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Autoya/Backyard/OverridePoints.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2495">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <marker date="1538483327274" expanded="true" signature="6:345" ph="..." />
+            <marker date="1538483327274" expanded="true" signature="347:452" ph="/* modify this class for your app's authentication, purchase, assetBundles, appManifest dataflow. ... */" />
+            <marker date="1538483327274" expanded="true" signature="478:23857" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="513:23855" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="528:596" ph="/* you can do something before Autoya boot. ... */" />
+            <marker date="1538483327274" expanded="true" signature="644:689" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="699:747" ph="/* maintenance handlers. ... */" />
+            <marker date="1538483327274" expanded="true" signature="757:829" ph="/* return if server is under maintenance or not. ... */" />
+            <marker date="1538483327274" expanded="true" signature="926:1012" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="1023:1074" ph="/* authentication handlers. ... */" />
+            <marker date="1538483327274" expanded="true" signature="1084:1240" ph="/* return true if already authenticated, return false if not. ... */" />
+            <marker date="1538483327274" expanded="true" signature="1301:1740" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="1528:1678" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="1750:1826" ph="/* send authentication data to server at first boot. ... */" />
+            <marker date="1538483327274" expanded="true" signature="1942:2502" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="2341:2401" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="2512:2794" ph="/* received first boot authentication result. ... */" />
+            <marker date="1538483327274" expanded="true" signature="2933:3319" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="3016:3173" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="3190:3284" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="3329:3404" ph="/* check if server response is unauthorized or not. ... */" />
+            <marker date="1538483327274" expanded="true" signature="3497:3590" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="3600:3750" ph="/* received Unauthorized code from server. then, should authenticate again. ... */" />
+            <marker date="1538483327274" expanded="true" signature="3863:4531" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="4374:4434" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="4541:4807" ph="/* received refreshed token. ... */" />
+            <marker date="1538483327274" expanded="true" signature="4949:5411" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="5032:5189" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="5206:5375" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="5490:5845" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="5656:5713" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="5730:5809" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="5856:5926" ph="/* authorized http request &amp; response handlers. ... */" />
+            <marker date="1538483327274" expanded="true" signature="5936:6096" ph="/* fire when generating http request, via Autoya.Http_X. ... */" />
+            <marker date="1538483327274" expanded="true" signature="6235:6502" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="6512:7082" ph="/* fire when received http response from server, via Autoya.Http_X. ... */" />
+            <marker date="1538483327274" expanded="true" signature="7256:7608" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="7376:7472" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="7489:7598" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="7782:8134" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="7902:7998" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="8015:8124" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="8146:8215" ph="/* app version and resource version handlers. ... */" />
+            <marker date="1538483327274" expanded="true" signature="8262:8347" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="8399:8615" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="8627:8679" ph="/* purchase feature handlers. ... */" />
+            <marker date="1538483327274" expanded="true" signature="8689:8899" ph="/* fire when the server returns product datas for this app. ... */" />
+            <marker date="1538483327274" expanded="true" signature="8964:9580" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="8987:9441" ph="/* get ProductInfo[] data from this responseData. ... */" />
+            <marker date="1538483327274" expanded="true" signature="9454:9570" ph="/* var productInfos = PurchaseSettings.IMMUTABLE_PURCHASE_ITEM_INFOS; ... */" />
+            <marker date="1538483327274" expanded="true" signature="9590:9655" ph="/* purchase feature is succeeded to load. ... */" />
+            <marker date="1538483327274" expanded="true" signature="9694:9751" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="9761:10345" ph="/* called when failed to ready the purchase feature. ... */" />
+            <marker date="1538483327274" expanded="true" signature="10506:10589" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="10599:10957" ph="/* called after purchase started. ... */" />
+            <marker date="1538483327274" expanded="true" signature="11021:11325" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="11044:11278" ph="/* by default, choosedProductId will be send as raw string. ... */" />
+            <marker date="1538483327274" expanded="true" signature="11335:11611" ph="/* called when received ticket data for purchasing product via Autoya.Purchase. ... */" />
+            <marker date="1538483327274" expanded="true" signature="11670:11752" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="11762:12090" ph="/* called when uncompleted purchase is done in background. ... */" />
+            <marker date="1538483327274" expanded="true" signature="12179:12296" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="12308:12356" ph="/* AssetBundles handlers. ... */" />
+            <marker date="1538483327274" expanded="true" signature="12468:12970" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="13043:13276" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="13333:13490" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="13500:13683" ph="/* should return assetBundleList-identity &amp; version pair. ... */" />
+            <marker date="1538483327274" expanded="true" signature="13786:14341" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="14008:14283" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="14351:14445" ph="/* should return identities of AssetBundleLists from persisted place. ... */" />
+            <marker date="1538483327274" expanded="true" signature="14510:14646" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="14656:14738" ph="/* should return the url for downloading assetBundleList. ... */" />
+            <marker date="1538483327274" expanded="true" signature="14819:15431" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="15021:15223" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="15441:15519" ph="/* should return the url for downloading assetBundle. ... */" />
+            <marker date="1538483327274" expanded="true" signature="15596:16208" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="15798:16000" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="16218:16864" ph="/* fire when the server returned new AssetBundleList version via responseHeader. ... */" />
+            <marker date="1538483327274" expanded="true" signature="17039:17779" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="17263:17487" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="17790:18644" ph="/* fire when you received new assetBundleList. ... */" />
+            <marker date="1538483327274" expanded="true" signature="18821:19759" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="18844:19726" ph="/* according to your app's state &amp; value of condition, ... */" />
+            <marker date="1538483327274" expanded="true" signature="19770:19880" ph="/* fire when update stored AssetBundleList version parameter from old to new version. ... */" />
+            <marker date="1538483327274" expanded="true" signature="19988:20437" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="20138:20359" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="20228:20345" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="20447:20649" ph="/* fire when AssetBundleList is updated to the new received one. ... */" />
+            <marker date="1538483327274" expanded="true" signature="20758:20943" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="20781:20912" ph="/* do something. e,g, Preload updated AssetBundles from updated AssetBundleList. ... */" />
+            <marker date="1538483327274" expanded="true" signature="20954:21120" ph="/* fire when failed to store new AssetBundleList to storage. ... */" />
+            <marker date="1538483327274" expanded="true" signature="21195:21240" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="21298:21509" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="21519:21598" ph="/* return request headers for getting AssetBundleList. ... */" />
+            <marker date="1538483327274" expanded="true" signature="21723:21777" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="21787:21873" ph="/* return request headers for getting AssetBundlePreloadList. ... */" />
+            <marker date="1538483327274" expanded="true" signature="22005:22059" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="22069:22145" ph="/* return request headers for getting AssetBundles. ... */" />
+            <marker date="1538483327274" expanded="true" signature="22266:22320" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="22331:22386" ph="/* Application version control. ... */" />
+            <marker date="1538483327274" expanded="true" signature="22396:22499" ph="/* do something for server requested client to download latest app from store. ... */" />
+            <marker date="1538483327274" expanded="true" signature="22567:22670" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="22682:22737" ph="/* ApplicationManifest handlers. ... */" />
+            <marker date="1538483327274" expanded="true" signature="22747:22900" ph="/* called when runtimeManifest should overwrite. ... */" />
+            <marker date="1538483327274" expanded="true" signature="22961:23135" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="23145:23292" ph="/* called when runtimeManifest should load. ... */" />
+            <marker date="1538483327274" expanded="true" signature="23339:23505" ph="{...}" />
+            <marker date="1538483327274" expanded="true" signature="23515:23589" ph="/* called when runtimeManifest should be restore. ... */" />
+            <marker date="1538483327274" expanded="true" signature="23637:23849" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Autoya/Backyard/AutoyaConstructor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="84" column="38" selection-start-line="84" selection-start-column="38" selection-end-line="84" selection-end-column="38" />
+          <folding>
+            <marker date="1538483323157" expanded="true" signature="6:222" ph="..." />
+            <marker date="1538483323157" expanded="true" signature="224:272" ph="/* constructor implementation of Autoya. ... */" />
+            <marker date="1538483323157" expanded="true" signature="298:2939" ph="{...}" />
+            <marker date="1538483323157" expanded="true" signature="332:2937" ph="{...}" />
+            <marker date="1538483323157" expanded="true" signature="405:464" ph="/* all conditions which Autoya has. ... */" />
+            <marker date="1538483323157" expanded="true" signature="503:656" ph="{...}" />
+            <marker date="1538483323157" expanded="true" signature="526:646" ph="/* public string _app_version; ... */" />
+            <marker date="1538483323157" expanded="true" signature="702:2821" ph="{...}" />
+            <marker date="1538483323157" expanded="true" signature="869:1494" ph="{...}" />
+            <marker date="1538483323157" expanded="true" signature="1072:1328" ph="{...}" />
+            <marker date="1538483323157" expanded="true" signature="1349:1480" ph="{...}" />
+            <marker date="1538483323157" expanded="true" signature="1511:1657" ph="{...}" />
+            <marker date="1538483323157" expanded="true" signature="2010:2776" ph="{...}" />
+            <marker date="1538483323157" expanded="true" signature="2164:2243" ph="/* start authentication. ... */" />
+            <marker date="1538483323157" expanded="true" signature="2356:2727" ph="{...}" />
+            <marker date="1538483323157" expanded="true" signature="2419:2521" ph="/* initialize purchase feature. ... */" />
+            <marker date="1538483323157" expanded="true" signature="2567:2697" ph="{...}" />
+            <marker date="1538483323157" expanded="true" signature="2860:2931" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SamUnitCore/Scripts/Utility/Session.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+          <folding>
+            <marker date="1538476172862" expanded="false" signature="6:47" ph="..." />
+            <marker date="1538476172862" expanded="true" signature="93:2047" ph="{...}" />
+            <marker date="1538476172862" expanded="true" signature="100:179" ph="/// シーン間やりとりを行いたい変数とかを管理してくれるセッションを提供するクラス ... " />
+            <marker date="1538476172862" expanded="true" signature="257:2045" ph="{...}" />
+            <marker date="1538476172862" expanded="true" signature="369:430" ph="/// セッションを新しく始める ... " />
+            <marker date="1538476172862" expanded="true" signature="456:507" ph="{...}" />
+            <marker date="1538476172862" expanded="true" signature="517:665" ph="/// セッションを登録 ... " />
+            <marker date="1538476172862" expanded="true" signature="729:799" ph="{...}" />
+            <marker date="1538476172862" expanded="true" signature="809:915" ph="/// セッションを取得する ... " />
+            <marker date="1538476172862" expanded="true" signature="962:1135" ph="{...}" />
+            <marker date="1538476172862" expanded="true" signature="1024:1099" ph="{...}" />
+            <marker date="1538476172862" expanded="true" signature="1145:1253" ph="/// 対象セッションを削除する ... " />
+            <marker date="1538476172862" expanded="true" signature="1300:1447" ph="{...}" />
+            <marker date="1538476172862" expanded="true" signature="1362:1437" ph="{...}" />
+            <marker date="1538476172862" expanded="true" signature="1457:1607" ph="/// 対象セッションを更新 ... " />
+            <marker date="1538476172862" expanded="true" signature="1671:1981" ph="{...}" />
+            <marker date="1538476172862" expanded="true" signature="1733:1836" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SamUnitCore/Scripts/Application/Common/Test.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

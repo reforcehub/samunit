@@ -1,0 +1,11 @@
+{
+    "name": "DomainAssemblyDefinition",
+    "references": [
+        "DataAssemblyDefinition",
+        "UtilityAssemblyDefinition"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

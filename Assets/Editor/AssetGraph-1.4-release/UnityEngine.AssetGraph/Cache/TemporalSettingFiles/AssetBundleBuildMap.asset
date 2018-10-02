@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d7cfce4400474688aa803f13d8eb448, type: 3}
+  m_Name: AssetBundleBuildMap
+  m_EditorClassIdentifier: 
+  m_assetBundles:
+  - m_assetBundleName: sample
+    m_assetBundleVariantName: 
+    m_fullName: sample
+    m_assets:
+    - original: Assets/AutoyaTests/RuntimeData/AssetBundles/SubResources/sample.txt
+      lower: assets/autoyatests/runtimedata/assetbundles/subresources/sample.txt
+    m_registererId: f6581217-728e-4af8-a14c-1e068cf38461
+  - m_assetBundleName: sample2
+    m_assetBundleVariantName: 
+    m_fullName: sample2
+    m_assets:
+    - original: Assets/AutoyaTests/RuntimeData/AssetBundles/SubResources/sample2.txt
+      lower: assets/autoyatests/runtimedata/assetbundles/subresources/sample2.txt
+    m_registererId: f6581217-728e-4af8-a14c-1e068cf38461
+  - m_assetBundleName: nestedprefab
+    m_assetBundleVariantName: 
+    m_fullName: nestedprefab
+    m_assets:
+    - original: Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/nestedPrefab.prefab
+      lower: assets/autoyatests/runtimedata/assetbundles/mainresources/nestedprefab.prefab
+    m_registererId: cb1c976e-e411-4b73-b3c8-2fa47d007ed6
+  - m_assetBundleName: texturename
+    m_assetBundleVariantName: 
+    m_fullName: texturename
+    m_assets:
+    - original: Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/textureName.png
+      lower: assets/autoyatests/runtimedata/assetbundles/mainresources/texturename.png
+    m_registererId: cb1c976e-e411-4b73-b3c8-2fa47d007ed6
+  - m_assetBundleName: texturename1
+    m_assetBundleVariantName: 
+    m_fullName: texturename1
+    m_assets:
+    - original: Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/textureName1.prefab
+      lower: assets/autoyatests/runtimedata/assetbundles/mainresources/texturename1.prefab
+    m_registererId: cb1c976e-e411-4b73-b3c8-2fa47d007ed6
+  - m_assetBundleName: texturename2
+    m_assetBundleVariantName: 
+    m_fullName: texturename2
+    m_assets:
+    - original: Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/textureName2.prefab
+      lower: assets/autoyatests/runtimedata/assetbundles/mainresources/texturename2.prefab
+    m_registererId: cb1c976e-e411-4b73-b3c8-2fa47d007ed6
+  - m_assetBundleName: updatabletex
+    m_assetBundleVariantName: 
+    m_fullName: updatabletex
+    m_assets:
+    - original: Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/updatableTex.prefab
+      lower: assets/autoyatests/runtimedata/assetbundles/mainresources/updatabletex.prefab
+    m_registererId: cb1c976e-e411-4b73-b3c8-2fa47d007ed6
+  m_version: 1

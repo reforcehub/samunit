@@ -1,0 +1,7 @@
+## Scripts/Presentation
+UIなどの画面上の演出を執り行うネームスペース。Viewでもいいんだけど、区別つかなくなるのでPresentationにした。
+ 
+PresentationはApplicationから起動し、DomainのListを閲覧することで動作するようにしたい。
+決してDomainのプロパティを変更するようなロジックは書いてはいけない。
+
+スタンドアロンな記述に心がける

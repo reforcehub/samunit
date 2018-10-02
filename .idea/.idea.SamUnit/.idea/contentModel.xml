@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="/268a5789" t="IncludeRecursive" />
+    <e p="/app" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_SamUnit.1041548695.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="ApplicationAssemblyDefinition.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Autoya" t="Include">
+          <e p="AssetBundle" t="Include">
+            <e p="AssetBundleList.cs" t="Include" />
+            <e p="AssetBundleListDownloader.cs" t="Include" />
+            <e p="AssetBundleLoader.cs" t="Include" />
+            <e p="AssetBundlePreloader.cs" t="Include" />
+          </e>
+          <e p="AutoyaDependencies.cs" t="Include" />
+          <e p="Backyard" t="Include">
+            <e p="AppManifestImplementation.cs" t="Include" />
+            <e p="AssetBundlesImplementation.cs" t="Include" />
+            <e p="AuthenticatedHTTPImplementation.cs" t="Include" />
+            <e p="AuthenticationImplementation.cs" t="Include" />
+            <e p="AutoyaConstructor.cs" t="Include" />
+            <e p="AutoyaEntryPoint.cs" t="Include" />
+            <e p="AutoyaMainthreadDispatcher.cs" t="Include" />
+            <e p="BackyardSettings.cs" t="Include" />
+            <e p="InformationImplementation.cs" t="Include" />
+            <e p="IUpdater.cs" t="Include" />
+            <e p="MaintenanceHandler.cs" t="Include" />
+            <e p="NotificationCenter.cs" t="Include" />
+            <e p="OverridePoints.cs" t="Include" />
+            <e p="PersistImplementation.cs" t="Include" />
+          </e>
+          <e p="Connections" t="Include">
+            <e p="HTTP.cs" t="Include" />
+            <e p="IP.cs" t="Include" />
+            <e p="Udp.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="FileController.cs" t="Include" />
+            <e p="Libs" t="Include">
+              <e p="SuekkoEditorWindow" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="GUI" t="Include">
+                    <e p="SuekkoWindow.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="YamlDotNet" t="Include">
+                <e p="derivedfrom.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Encrypt" t="Include">
+            <e p="AES256.cs" t="Include" />
+            <e p="RIPEMD160.cs" t="Include" />
+            <e p="SHA_2.cs" t="Include" />
+          </e>
+          <e p="Information" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Antimaterializer.cs" t="Include" />
+              <e p="FileController.cs" t="Include" />
+              <e p="Reporter.cs" t="Include" />
+            </e>
+            <e p="UUebViewComponent.cs" t="Include" />
+          </e>
+          <e p="Manifest" t="Include">
+            <e p="AppManifestStore.cs" t="Include" />
+          </e>
+          <e p="Notification" t="Include">
+            <e p="Notifications.cs" t="Include" />
+          </e>
+          <e p="Persistence" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PersistenceSupport.cs" t="Include" />
+            </e>
+            <e p="FilePersistence" t="Include">
+              <e p="FilePersistence.cs" t="Include" />
+            </e>
+            <e p="InAppDB" t="Include">
+              <e p="InAppDB.cs" t="Include" />
+            </e>
+            <e p="InAppKVS" t="Include">
+              <e p="InAppKVS.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Representation" t="Include">
+            <e p="Base64.cs" t="Include" />
+            <e p="JWT.cs" t="Include" />
+          </e>
+          <e p="ResourcesControl" t="Include">
+            <e p="ResouresController.cs" t="Include" />
+          </e>
+          <e p="Settings" t="Include">
+            <e p="AppSettings.cs" t="Include" />
+            <e p="AssetBundlesSettings.cs" t="Include" />
+            <e p="AuthSettings.cs" t="Include" />
+            <e p="AutoyaBuildManifestObject.cs" t="Include" />
+            <e p="AutoyaRuntimeManifestObject.cs" t="Include" />
+            <e p="ConnectionSettings.cs" t="Include" />
+            <e p="MaintenanceSettings.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Editor" t="Include">
+          <e p="AssetGraph-1.4-release" t="Include">
+            <e p="UnityEngine.AssetGraph" t="Include">
+              <e p="Editor" t="Include">
+                <e p="GUI" t="Include">
+                  <e p="AssetGraphEditorWindow.cs" t="Include" />
+                  <e p="AssetLog" t="Include">
+                    <e p="AssetProcessEventListTree.cs" t="Include" />
+                    <e p="AssetProcessEventLogViewController.cs" t="Include" />
+                    <e p="AssetProcessEventLogWindow.cs" t="Include" />
+                  </e>
+                  <e p="BatchBuild" t="Include">
+                    <e p="BatchBuildWindow.cs" t="Include" />
+                    <e p="BuildTargetTree.cs" t="Include" />
+                    <e p="ExecuteResultTree.cs" t="Include" />
+                    <e p="GraphCollectionDetailTree.cs" t="Include" />
+                    <e p="GraphCollectionExecuteTab.cs" t="Include" />
+                    <e p="GraphCollectionManageTab.cs" t="Include" />
+                    <e p="GraphCollectionTree.cs" t="Include" />
+                  </e>
+                  <e p="ConfigGraphEditor.cs" t="Include" />
+                  <e p="ConnectionEvent.cs" t="Include" />
+                  <e p="ConnectionGUI.cs" t="Include" />
+                  <e p="ConnectionGUIEditor.cs" t="Include" />
+                  <e p="ConnectionGUIUtility.cs" t="Include" />
+                  <e p="GraphBackground.cs" t="Include" />
+                  <e p="GraphicResources" t="Include">
+                    <e p="LineDraw.shader" t="Include" />
+                  </e>
+                  <e p="GroupView" t="Include">
+                    <e p="GroupAssetListTree.cs" t="Include" />
+                    <e p="GroupListTree.cs" t="Include" />
+                    <e p="GroupViewController.cs" t="Include" />
+                  </e>
+                  <e p="NodeEvent.cs" t="Include" />
+                  <e p="NodeGUI.cs" t="Include" />
+                  <e p="NodeGUIEditor.cs" t="Include" />
+                  <e p="NodeGUIUtility.cs" t="Include" />
+                  <e p="ProjectSettings" t="Include">
+                    <e p="AssetBundleSettingsTab.cs" t="Include" />
+                    <e p="ExecutionOrderSettingsTab.cs" t="Include" />
+                    <e p="ProjectSettingsWindow.cs" t="Include" />
+                  </e>
+                  <e p="RecordUndoScope.cs" t="Include" />
+                  <e p="UserPreference.cs" t="Include" />
+                </e>
+                <e p="SettingTemplate" t="Include">
+                  <e p="readme.txt" t="Include" />
+                  <e p="setting.shader" t="Include" />
+                </e>
+                <e p="System" t="Include">
+                  <e p="AssetGenerators" t="Include">
+                    <e p="AssetGenerateInfo.cs" t="Include" />
+                    <e p="CreateMaterialFromTexture.cs" t="Include" />
+                    <e p="DuplicateRefererenceAsset.cs" t="Include" />
+                    <e p="Duplicator.cs" t="Include" />
+                    <e p="IAssetGenerator.cs" t="Include" />
+                    <e p="TextureScaler.cs" t="Include" />
+                  </e>
+                  <e p="Core" t="Include">
+                    <e p="AssetBundleBuildReport.cs" t="Include" />
+                    <e p="AssetGraphController.cs" t="Include" />
+                    <e p="AssetGraphPostprocessor.cs" t="Include" />
+                    <e p="AssetPostprocessorContext.cs" t="Include" />
+                    <e p="AssetProcessEvent.cs" t="Include" />
+                    <e p="AssetProcessEventRecord.cs" t="Include" />
+                    <e p="AssetReferenceStreamManager.cs" t="Include" />
+                    <e p="PerformGraph.cs" t="Include" />
+                    <e p="SystemDataUtility.cs" t="Include" />
+                  </e>
+                  <e p="Exception" t="Include">
+                    <e p="AssetGraphException.cs" t="Include" />
+                    <e p="AssetReferenceException.cs" t="Include" />
+                    <e p="NodeException.cs" t="Include" />
+                  </e>
+                  <e p="Filters" t="Include">
+                    <e p="FilterByNameAndType.cs" t="Include" />
+                    <e p="FilterTypeUtility.cs" t="Include" />
+                    <e p="FilterUtility.cs" t="Include" />
+                    <e p="IFilter.cs" t="Include" />
+                  </e>
+                  <e p="Importers" t="Include">
+                    <e p="AudioImporterConfigurator.cs" t="Include" />
+                    <e p="IAssetImporterConfigurator.cs" t="Include" />
+                    <e p="ModelImporterConfigurator.cs" t="Include" />
+                    <e p="ShaderImporterConfigurator.cs" t="Include" />
+                    <e p="TextureImporterConfigurator.cs" t="Include" />
+                    <e p="TrueTypeFontImporterConfigurator.cs" t="Include" />
+                    <e p="VideoClipImporterConfigurator.cs" t="Include" />
+                  </e>
+                  <e p="Libs" t="Include">
+                    <e p="MiniJSONForAssetGraph.cs" t="Include" />
+                  </e>
+                  <e p="Model" t="Include">
+                    <e p="AssetReference.cs" t="Include" />
+                    <e p="AssetReferenceDatabase.cs" t="Include" />
+                    <e p="BatchBuildConfig.cs" t="Include" />
+                    <e p="Node.cs" t="Include" />
+                    <e p="NodeBuildContext.cs" t="Include" />
+                    <e p="ObjectReferenceBase.cs" t="Include" />
+                    <e p="SerializableGroups.cs" t="Include" />
+                    <e p="SerializableMultiTargetInstance.cs" t="Include" />
+                    <e p="SerializableMultiTargetInt.cs" t="Include" />
+                    <e p="SerializableMultiTargetString.cs" t="Include" />
+                    <e p="SerializedComponent.cs" t="Include" />
+                    <e p="SerializedInstance.cs" t="Include" />
+                    <e p="V1" t="Include">
+                      <e p="ConnectionData.cs" t="Include" />
+                      <e p="ConnectionPointData.cs" t="Include" />
+                      <e p="NodeData.cs" t="Include" />
+                      <e p="SaveData.cs" t="Include" />
+                      <e p="Settings.cs" t="Include" />
+                    </e>
+                    <e p="V2" t="Include">
+                      <e p="ConfigGraph.cs" t="Include" />
+                      <e p="ConnectionData.cs" t="Include" />
+                      <e p="ConnectionPointData.cs" t="Include" />
+                      <e p="NodeData.cs" t="Include" />
+                      <e p="NodeDataImporter.cs" t="Include" />
+                      <e p="Settings.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Modifiers" t="Include">
+                    <e p="AddGameObject.cs" t="Include" />
+                    <e p="AttachComponent.cs" t="Include" />
+                    <e p="IModifier.cs" t="Include" />
+                    <e p="SetProperty.cs" t="Include" />
+                    <e p="SetReference.cs" t="Include" />
+                    <e p="SetSpritesToAnimation.cs" t="Include" />
+                  </e>
+                  <e p="Node" t="Include">
+                    <e p="Buitin" t="Include">
+                      <e p="AssertUnwantedAssetsInBundle.cs" t="Include" />
+                      <e p="AssetGenerator.cs" t="Include" />
+                      <e p="BundleBuilder.cs" t="Include" />
+                      <e p="BundleConfigurator.cs" t="Include" />
+                      <e p="Error.cs" t="Include" />
+                      <e p="Exporter.cs" t="Include" />
+                      <e p="ExtractSharedAssets.cs" t="Include" />
+                      <e p="Filter.cs" t="Include" />
+                      <e p="Grouping.cs" t="Include" />
+                      <e p="GroupingByFile.cs" t="Include" />
+                      <e p="GroupingBySize.cs" t="Include" />
+                      <e p="Imported.cs" t="Include" />
+                      <e p="ImportSetting.cs" t="Include" />
+                      <e p="Label.cs" t="Include" />
+                      <e p="Loader.cs" t="Include" />
+                      <e p="LoaderBySearch.cs" t="Include" />
+                      <e p="MirrorDirectory.cs" t="Include" />
+                      <e p="Modifier.cs" t="Include" />
+                      <e p="PlayerBuilder.cs" t="Include" />
+                      <e p="PrefabBuilder.cs" t="Include" />
+                    </e>
+                    <e p="IPostprocess.cs" t="Include" />
+                  </e>
+                  <e p="PrefabBuilders" t="Include">
+                    <e p="IPrefabBuilder.cs" t="Include" />
+                    <e p="PrefabBuilderUtility.cs" t="Include" />
+                    <e p="PrefabBuildInfo.cs" t="Include" />
+                    <e p="ReplaceGameObjectByName.cs" t="Include" />
+                    <e p="ReplaceWithIncomingGameObject.cs" t="Include" />
+                  </e>
+                  <e p="Utility" t="Include">
+                    <e p="AssetGraphUtility.cs" t="Include" />
+                    <e p="AssetReferenceUtility.cs" t="Include" />
+                    <e p="BuildTargetUtility.cs" t="Include" />
+                    <e p="ComponentMenuUtility.cs" t="Include" />
+                    <e p="CUIUtility.cs" t="Include" />
+                    <e p="CustomScriptUtility.cs" t="Include" />
+                    <e p="FileUtility.cs" t="Include" />
+                    <e p="JSONGraphUtility.cs" t="Include" />
+                    <e p="LogUtility.cs" t="Include" />
+                    <e p="SaveScope.cs" t="Include" />
+                    <e p="TypeUtility.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Test" t="Include">
+                  <e p="ImporterTest.cs" t="Include" />
+                  <e p="PathTest.cs" t="Include" />
+                </e>
+              </e>
+              <e p="EditorRuntimeSupport" t="Include">
+                <e p="AssetBundleBuildMap.cs" t="Include" />
+                <e p="AssetGraphBasePath.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Autoya.AssetGraphIntegration" t="Include">
+            <e p="AutoyaAssetBundleListGenerateProcess.cs" t="Include" />
+            <e p="Flatten.cs" t="Include" />
+          </e>
+          <e p="AutoyaEditorTool.cs" t="Include" />
+          <e p="derivedfrom.txt" t="Include" />
+        </e>
+        <e p="SamUnitCore" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Application" t="Include">
+              <e p="ApplicationAssemblyDefinition.asmdef" t="Include" />
+              <e p="Common" t="Include" />
+            </e>
+            <e p="Utility" t="Include">
+              <e p="Session.cs" t="Include" />
+              <e p="SingletonMonoBehaviour.cs" t="Include" />
+              <e p="UtilityAssemblyDefinition.asmdef" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SamUnit.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="UtilityAssemblyDefinition.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
